@@ -1,0 +1,4 @@
+../Core/Src/w25qxx.c:18:6:W25Q_Reset	16	static
+../Core/Src/w25qxx.c:27:10:W25Q_ReadID	16	static
+../Core/Src/w25qxx.c:37:6:W25Q_Read	4	static
+../Core/Src/w25qxx.c:42:6:W25Q_Write	4	static
